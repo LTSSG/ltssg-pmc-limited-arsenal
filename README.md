@@ -15,11 +15,11 @@ A küldetésekben használható felszerelések, ruházat és fegyverek loadout k
 1. Hozz létre egy triggert!
 2. Állítsd be a trigger méretét!
 3. Állítsd be a trigger tulajdonságait:
-* Type: None
-* Activation: Any Player
-* Activation Type: Present
-* Repeatable: bepipálva
-* Condition: player in thisList
+* __Type:__ None
+* __Activation:__ Any Player
+* __Activation Type:__ Present
+* __Repeatable:__ bepipálva
+* __Condition:__ player in thisList
 
 4. Az On Activation mezőbe másold be az [armory_trigger.txt](https://github.com/LTSSG/ltssg-pmc-limited-arsenal/blob/main/armory_trigger.txt) fájl tartalmát!
 
